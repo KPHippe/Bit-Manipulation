@@ -3,8 +3,11 @@ The CS:APP Data Lab
 Directions to Students
 ***********************
 
-Your goal is to modify your copy of bits.c so that it passes all the
-tests in btest without violating any of the coding guidelines.
+THe only part of this program that is my original work is 
+bits.c
+bits.c has my solutions and the rest of the files are for testing
+and validation purposes only. Follow this files instructions to 
+test my solutions. 
 
 
 *********
